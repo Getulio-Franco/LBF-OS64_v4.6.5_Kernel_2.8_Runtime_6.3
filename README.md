@@ -1,0 +1,2 @@
+# LBF-OS64_v4.6.5_Kernel_2.8_Runtime_6.3
+SISTEMA OPERACIONAL  x86-64 BITS
